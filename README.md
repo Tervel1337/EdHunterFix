@@ -22,5 +22,5 @@ The idea of this fix is to make it as easy as possible to run Ed Hunter on moder
 
 - Help: [ermaccer](https://github.com/ermaccer), [Edness](https://x.com/EdnessPlays), [jas0n098](https://github.com/jas0n098) (testing on Linux)
 - Silent: [ModUtils](https://github.com/CookiePLMonster/ModUtils)
-- FunkyFr3sh: [MinHook](https://github.com/FunkyFr3sh/cnc-ddraw)
-- ThirteenAG: [Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
+- FunkyFr3sh: [MinHook](https://github.com/FunkyFr3sh/cnc-ddraw) (bundled with the releases)
+- ThirteenAG: [Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) (bundled with the releases)
